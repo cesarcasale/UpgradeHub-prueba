@@ -3,9 +3,9 @@
 }
 
 body {
-    color: blue;
+    background-color: blue;
 }
 
-h1 p {
+h1, p {
     color: white;
 }

@@ -5,8 +5,17 @@
 body {
     margin: 0;
     background-color: blue;
+    text-align: center;
 }
 
 h1, p {
     color: white;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+p {
+    font-size: 30px;
 }
